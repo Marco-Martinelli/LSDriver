@@ -3,16 +3,17 @@ Primo assegnamento
 Laboratorio di Programmazione 2^ Anno
 Martinelli Marco
 -----------------------------------
-from command line, compile with 
-$g++ main.cpp LaserScannerDriver.cpp -o filename.out
-and launch with
-$./filename.out
+from command line, compile with \n
+$g++ main.cpp LaserScannerDriver.cpp -o filename.out \n
+and launch with \n
+$./filename.out \n
 
-if you want to use debugger compile with
-$ g++ -g main.cpp LaserScannerDriver.cpp -o filename.out
-and launch with
-$dbg filename.out
-$run
+if you want to use debugger compile with\n
+$ g++ -g main.cpp LaserScannerDriver.cpp -o filename.out \n
+and launch with \n
+$dbg filename.out \n
+$run \n
 
-to test memory leak
-$valgrind ./filenameout
+to test memory leak \n
+$valgrind ./filenameout \n
+
